@@ -1,8 +1,8 @@
 HELP.md
-/target/
-
-### IntelliJ IDEA ###
+target
+patch
 .idea
 *.iws
 *.iml
 *.ipr
+*.patch
